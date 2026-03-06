@@ -1,1 +1,1 @@
-# liquor-price-app
+# index.html
